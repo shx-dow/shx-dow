@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Chitransh</h1>
-<h5 align="left">A 2nd-year B.Tech (CSE) student passionate about AI, web dev, and all things tech. I love exploring new tools, coding cool stuff, and unwinding with cricket or music. Let’s build something awesome!</h5>
+<h5 align="left">A 3rd-year B.Tech (CSE) student passionate about AI, web dev, and all things tech. I love exploring new tools, coding cool stuff, and unwinding with cricket or music. Let’s build something awesome!</h5>
 
 - 🔭 I’m currently working on [my personal website](https://chitransh9.vercel.app/)
 

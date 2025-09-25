@@ -5,7 +5,7 @@ I like building small, fast, purposeful tools and iterating in public.
 
 ## Currently Building
 - Personal site (a simple portfolio website)
-- Echo – experimenting with a lightweight frontend (React + Vite)
+- Echo - a chat app (basically, experimenting with backend and frontend)
 
 ## Stack (core tools I reach for)
 - Languages: (add: e.g. TypeScript, JavaScript, Python, Go, etc.)

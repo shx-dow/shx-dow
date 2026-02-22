@@ -3,9 +3,12 @@
 ## About
 I like building small, fast, purposeful tools and iterating in public.
 
+## Currently Building
+**[lantern](https://github.com/shx-dow/lantern)** — a peer-to-peer file sharing system with a terminal UI (TUI). Runs on your LAN, auto-discovers peers, built with Python + Textual.
+
 ## Stack (core tools I reach for)
-- Languages: (add: e.g. TypeScript, JavaScript, Python, Go, etc.)
-- Frontend: React, Vite
+- Languages: Python, TypeScript, JavaScript, C, C#, C++
+- Frontend: React, Vite, Astro
 - Tooling: Git, minimal configs, fast iteration
 - Approach: ship early, refine later
 

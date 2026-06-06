@@ -1,22 +1,17 @@
 # Hi, I'm Chitransh 👋
 
-## About
-I like building small, fast, purposeful tools and iterating in public.
+I build software that should probably already exist.
 
-## Currently Building
-**[lantern](https://github.com/shx-dow/lantern)** [WIP] — a peer-to-peer file sharing system with a terminal UI (TUI). Runs on your LAN, auto-discovers peers, built with Python + Textual.
+Currently working on **Lantern**: a peer-to-peer file sharing system with automatic discovery and a terminal interface.
 
-## Stack (core tools I reach for)
-- Languages: Python, TypeScript, JavaScript, C, C#, C++
-- Frontend: React, Vite, Astro
-- Tooling: Git, minimal configs, fast iteration
-- Approach: ship early, refine later
+### Stack
 
-## Focus / Interests
-- Simple interfaces
-- Fast feedback loops
-- Automating repetitive setup
-- Keeping things legible
+Go, Python, TypeScript, C++, Rust
 
-## Contact
-- Website: [chitransh.me](https://chitransh.me)
+### Areas
+
+Systems • Networking • Developer Tools • Open Source
+
+### Elsewhere
+
+chitransh.me

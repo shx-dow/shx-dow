@@ -9,4 +9,4 @@ I build software that should probably already exist.
 Rust · Go · TypeScript · Python · C </br>
 Systems · Networking · Developer Tools · Open Source
 
-[chitransh.me](https://chitransh.codes)
+[chitransh.codes](https://chitransh.codes)
